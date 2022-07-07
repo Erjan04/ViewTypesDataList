@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewTypesDataList.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewTypesDataList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViewTypesDataList.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
